@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
+title: YiKe Blog
 SEOTitle: 一刻的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: abc@gmail.com
 description: "测试博客网站。"
-keyword: "BY, BY Blog, 一刻的博客, qiubaiying, 一刻, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, 一刻的博客, yike, 一刻, game, read, music"
 url: "http://fgfgo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fgfgo/fgfgo.github.io.git" # you code repository
@@ -21,8 +21,8 @@ RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     sui-xing-20-60
 github_username:    fgfgo
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+facebook_username:  无
+jianshu_username:   无
 #twitter_username:   qiubaiying
 
 
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "qiubaiying",
+        href: "https://qiubaiying.github.io/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "bilibili",
+        href: "https://www.bilibili.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Google",
+        href: "https://www.google.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "OpenAI",
+        href: "https://openai.com/"
     }
 ]
